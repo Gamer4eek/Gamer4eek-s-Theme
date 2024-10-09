@@ -1,0 +1,21 @@
+{
+  "name": "gamer4eek-s-theme",
+  "displayName": "Gamer4eek's theme",
+  "description": "Gamer4eek's theme!!!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gamer4eek's theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Gamer4eek's theme-color-theme.json"
+      }
+    ]
+  }
+}

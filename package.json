@@ -3,6 +3,19 @@
   "displayName": "Gamer4eek's theme",
   "description": "Gamer4eek's theme!!!",
   "version": "0.0.1",
+  "publisher": "Gamer4eek",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gamer4eek/Gamer4eek-s-Theme.git"
+  },
+  "keywords": [
+    "Theme",
+    "Gamer4eek",
+    "gamer4eek",
+    "dark",
+    "Dark",
+    "Gamer4eek Dark"
+  ],
   "engines": {
     "vscode": "^1.94.0"
   },
